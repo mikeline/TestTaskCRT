@@ -1,4 +1,4 @@
-﻿namespace TestTaskCRT
+﻿namespace TestTaskCRT.MessageBroker
 {
     public sealed class MessageBroker
     {

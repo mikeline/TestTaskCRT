@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace TestTaskCRT
+namespace TestTaskCRT.MessageBroker
 {
     public sealed class CustomMessage : IMessage
     {
